@@ -1,4 +1,3 @@
-<script>
 	//const AWSForm_1 = document.getElementById("car_submission_form")
 	var s3Done = false;
 	//const video_1 = document.getElementById("video_input_1")
@@ -42,4 +41,3 @@
 			//sleep(500).then(() => { document.getElementById("car_submission_form").submit(); });
 		}
 	})
-</script>
